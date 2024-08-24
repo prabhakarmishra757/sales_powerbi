@@ -1,5 +1,5 @@
 
-<h3>Data Vizualisation of Sales Data on various parameter<h3>
+<h3>Data Visualisation of Sales Data on various parameter<h3>
 <h5>Sales Data on various parameters is analyzed across different cities and different payment modes.
 Snapshot of first few data is<h5>
 
